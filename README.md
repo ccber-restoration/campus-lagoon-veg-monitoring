@@ -9,4 +9,5 @@
 
 - At least some data are in Box>CCBER_Data>Campus_Lagoon>Vegetation_Monitoring>Lagoon Island and Campus Point
 - Original veg survey data are collected via Survey123: "CCBER VegMonitoring QuadratTransects" (but seems like those data start in 2020?)
+- For focal species: compare occurrences within coastal zone (2 km?) in Southern California, e.g., using iNaturalist data
  
