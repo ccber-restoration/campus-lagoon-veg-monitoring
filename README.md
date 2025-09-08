@@ -5,6 +5,7 @@
   -  Restoration Register newsletter coverage:
      - May 2023: https://escholarship.org/content/qt2352w6kx/qt2352w6kx.pdf
      - September 2024 Restoration Register: https://escholarship.org/content/qt6k11m3gb/qt6k11m3gb_noSplash_02172bc986189bc884e1df74cd0f0419.pdf
+  -  Geography news story: https://legacy.geog.ucsb.edu/controlled-burn-on-lagoon-island-targets-rip-gut-grass/
 
 
 # Data
