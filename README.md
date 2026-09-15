@@ -17,7 +17,7 @@ Prescribed burns have been carried out periodically since 2009:
 - 2018 Burn Plot
 - 2020 Burn Plot
 - 2022 Burn Plot
-- 2024 two separate burns
+- 2024 two separate burn plots
 - 2026 Burn Plot
 
 
