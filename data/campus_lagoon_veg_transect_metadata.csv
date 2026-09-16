@@ -1,32 +1,32 @@
-﻿management_area,transect_id,length_m,year_start,notes
-Campus Point,CP-1,70,2010,
-Campus Point,CP-2,70,2010,
-Campus Point,CP-3,,,covers asphalt area;  not in 2025 report
-Campus Point,CP-4,,,not in 2025 report?
-Lagoon Island,LI-1,70,2008,
-Lagoon Island,LI-2,70,2008,largely covers 2012 burn plot
-Lagoon Island,LI-3,70,," not monitored since 2015, not in 2025 report"
-Lagoon Island,LI-4,,2008,"~50% of transect covers 2024 burn plot (30 m to 58 m); not monitored in 2013, 2014, 2016, 2017"
-Lagoon Island,LI-5,70,2008,not monitored in 2016?
-Lagoon Island,LI-6,70,,partly intersects with 2022 burn plot
-Lagoon Island,LI-7,,2008,"first ~20 m of transect are within 2024 ""re-burn"" area of 2016 burn plot; also covers a portion of the 2014 burn"
-Lagoon Island,LI-8,50,2015,falls within 2014 burn plot
-Lagoon Island,LI-9,,,largely covers 2020 burn plot
-East Depression,ED-A,,2000,now monitored in even years; see Fig 42 in 2025 report
-East Depression,ED-B,,2000,now monitored in odd years
-East Depression,ED-C,,2000,now monitored in even years
-East Depression,ED-D,,2000,now monitored in odd years
-East Depression,ED-E,,2000,now monitored in even years
-East Depression,ED-F,70,2000,monitored annually; gap 2015-2017
-East Depression,ED-G,,2007,now monitored in odd years
-East Depression,ED-H,70,,last monitored in 2019
-East Depression,ED-I,70,,last monitored in 2012
-West Depression,WD-1,70,2007,gap 2014-2017
-West Depression,WD-2,,2007,gap 2014-2017
-West Depression,WD-3,,2007,gap 2013-2017
-San Nicholas,SN-1,,,
-San Nicholas,SN-2,,,
-San Nicholas,SN-3,,,
-San Nicholas,SN-4,,,
-San Nicholas,SN-5,,,
-San Nicholas,SN-6,,,
+﻿management_area,transect_id_survey123,transect_id_map,length_m,n_quadrats,quadrat_interval_m,year_start,notes
+Campus Point,CP-1,CP-1,70,36,2,2010,
+Campus Point,CP-1,CP-2,70,36,2,2010,
+Campus Point,CP-1,CP-3,50,26,2,,covers asphalt area;  not in 2025 report
+Campus Point,CP-1,CP-4,70,36,2,,not in 2025 report?
+Lagoon Island,Island-1,LI-1,70,36,2,2008,
+Lagoon Island,Island-2,LI-2,70,36,2,2008,largely covers 2012 burn plot
+Lagoon Island,Island-3,LI-3,70,,,," not monitored since 2015, not in 2025 report"
+Lagoon Island,Island-4,LI-4,70,,,2008,"~50% of transect covers 2024 burn plot (30 m to 58 m); not monitored in 2013, 2014, 2016, 2017"
+Lagoon Island,Island-5,LI-5,70,36,2,2008,not monitored in 2016?
+Lagoon Island,Island-6,LI-6,70,36,2,,partly intersects with 2022 burn plot
+Lagoon Island,Island-7,LI-7,70,36,2,2008,"first ~20 m of transect are within 2024 ""re-burn"" area of 2016 burn plot; also covers a portion of the 2014 burn"
+Lagoon Island,Island-8,LI-8,50,26,2,2015,falls within 2014 burn plot
+Lagoon Island,Island-9,LI-9,50,26,2,,largely covers 2020 burn plot
+East Depression,EastDep-A,ED-A,42,22,2,2000,now monitored in even years; see Fig 42 in 2025 report
+East Depression,EastDep-B,ED-B,,,,2000,now monitored in odd years
+East Depression,EastDep-C,ED-C,,,,2000,now monitored in even years
+East Depression,EastDep-D,ED-D,42,,,2000,now monitored in odd years
+East Depression,EastDep-E,ED-E,,,,2000,now monitored in even years
+East Depression,"	EastDep-F",ED-F,70,36,2,2000,monitored annually; gap 2015-2017
+East Depression,EastDep-G,ED-G,,,,2007,now monitored in odd years
+East Depression,,ED-H,70,,,,last monitored in 2019
+East Depression,,ED-I,70,,,,last monitored in 2012
+West Depression,WestDep-1,WD-1,70,36,2,2007,gap 2014-2017
+West Depression,WestDep-2,WD-2,54,28,2,2007,gap 2014-2017
+West Depression,WestDep-3,WD-3,42,22,2,2007,gap 2013-2017
+San Nicholas,,SN-1,,,,,
+San Nicholas,,SN-2,,,,,
+San Nicholas,,SN-3,,,,,
+San Nicholas,,SN-4,,,,,
+San Nicholas,,SN-5,,,,,
+San Nicholas,,SN-6,,,,,
