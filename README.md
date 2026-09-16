@@ -32,12 +32,12 @@ Temporal coverage: annual (late spring/early summer?); some start in 2008, skip 
 "Campus Lagoon" really represents smaller management areas:
 -  Campus Point (7 acres): 4 transects
     -  CP-1, CP-2, CP-3, CP-4 (**last two seem to be missing from Cheadle Center transect web map**). CP-1 and CP-2 monitored since 2010.  
--  Lagoon Island (16 acres): 8 transects
+-  Lagoon Island (16 acres): 8 actively monitored transects (LI-3 not monitored since 2015)
     -  LI-1 to LI-9
         - note that LI-2 largely covers the 2012 burn plot, starts in 2008  
--  East Depression:
--  
--  West Depression
+-  East Depression: 9 total transects, including 2 no longer monitored. Some now monitored in alternating years.
+-  West Depression: 3 transects
+  
 -  San Nicholas Wetland
 -  Manzanita Village lope
 
